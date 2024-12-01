@@ -17,7 +17,7 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/-Vuejs-02569B?style=for-the-badge&logo=vuejs&logoColor=white)
+![](https://img.shields.io/badge/-Vuejs-02569B?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/-Nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 </div>
@@ -28,7 +28,16 @@
 ![](https://img.shields.io/badge/-Nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-Fastspi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![](https://img.shields.io/badge/-Axum-000000?style=for-the-badge&logo=axum&logoColor=white)
+![](https://img.shields.io/badge/-Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+<h3 align="center">Database</h3>
+<div align="center">
+
+![](https://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 <h3 align="center">Web3</h3>
