@@ -2,6 +2,8 @@
 
 > **"Crafting scalable, efficient, and innovative solutions for the modern world."**
 
+📝 **Blog**: [willywangkaa](https://wangwilly.github.io/willywangkaa/)
+
 ## Technical Expertise
 Building robust applications across multiple domains using efficient and scalable solutions.
 
