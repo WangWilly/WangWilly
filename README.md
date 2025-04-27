@@ -32,7 +32,7 @@ Building robust applications across multiple domains using efficient and scalabl
 - **Python**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault), [first-bci](https://github.com/WangWilly/first-bci), [osu-cse-5526](https://github.com/WangWilly/osu-cse-5526)
 - **Java**: [osu-cse-6341](https://github.com/WangWilly/osu-cse-6341), [osu-cse-6431](https://github.com/WangWilly/osu-cse-6431)
 - **Rust**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph), [rust-patent-protector](https://github.com/WangWilly/rust-patent-protector)
-- **Go**: [TTLGeth](https://github.com/WangWilly/TTLGeth), [go-chat](https://github.com/WangWilly/go-chat)
+- **Go**: [labs-gin](https://github.com/WangWilly/labs-gin), [TTLGeth](https://github.com/WangWilly/TTLGeth), [go-chat](https://github.com/WangWilly/go-chat)
 - **TypeScript**: [sol-trading-service](https://github.com/WangWilly/sol-trading-service), [Dounty](https://github.com/WangWilly/Dounty), [nlp-stock-ticker](https://github.com/WangWilly/nlp-stock-ticker)
 - **Solidity**: [myFirstSolidity](https://github.com/WangWilly/myFirstSolidity), [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Bash**: [osu-cse-6341](https://github.com/WangWilly/osu-cse-6341), [osu-cse-5526](https://github.com/WangWilly/osu-cse-5526)
@@ -61,6 +61,7 @@ Building robust applications across multiple domains using efficient and scalabl
 ![](https://img.shields.io/badge/-Model--View--Controller-000000?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![](https://img.shields.io/badge/-Gin-2EA0F2?style=flat-square&logo=gin&logoColor=white)
 ![](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/-Axum-000000?style=flat-square&logo=rust&logoColor=white)
@@ -72,6 +73,7 @@ Building robust applications across multiple domains using efficient and scalabl
 
 #### Notable Projects:
 - **MVC Pattern**: [rust-patent-protector](https://github.com/WangWilly/rust-patent-protector)
+- **Gin**: [labs-gin](https://github.com/WangWilly/labs-gin)
 - **Express.js**: [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Django**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault)
 - **Axum**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph)
