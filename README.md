@@ -1,13 +1,9 @@
-# Yuli Wang - The Professional Software Engineer
+<h1> Yuli W. &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp;&nbsp;  <a href="https://wangwilly.github.io/willywangkaa/">[🏠]</a> </h1>
 
-> **"Crafting scalable, efficient, and innovative solutions for the modern world."**
-
-📝 **Blog**: [willywangkaa](https://wangwilly.github.io/willywangkaa/)
+> **"Scalable, Efficient, Innovative"**
 
 ## Technical Expertise
 Building robust applications across multiple domains using efficient and scalable solutions.
-
----
 
 ### 🛠️ Languages
 <div align="left">
@@ -41,8 +37,6 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </details>
 
----
-
 <details>
 <summary><b>➡️ MORE</b></summary>
 
@@ -63,8 +57,6 @@ Building robust applications across multiple domains using efficient and scalabl
 - **React Native**: [Various projects with docker-compose support](https://github.com/WangWilly/smart-file-vault)
 
 </details>
-
----
 
 ### 🚀 Backend Technologies
 <div align="left">
@@ -93,8 +85,6 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </details>
 
----
-
 ### 🗄️ Database
 <div align="left">
 
@@ -113,8 +103,6 @@ Building robust applications across multiple domains using efficient and scalabl
 - **Transaction Processing**: [osu-cse-6431](https://github.com/WangWilly/osu-cse-6431)
 
 </details>
-
----
 
 ### 🌐 Web3
 <div align="left">
@@ -135,8 +123,6 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </details>
 
----
-
 ### 🤖 AI
 <div align="left">
 
@@ -152,8 +138,6 @@ Building robust applications across multiple domains using efficient and scalabl
 - **BCI (Brain-Computer Interface)**: [first-bci](https://github.com/WangWilly/first-bci)
 
 </details>
-
----
 
 ### 🛠️ Development Tools
 <div align="left">
