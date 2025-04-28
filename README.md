@@ -10,7 +10,7 @@ Building robust applications across multiple domains using efficient and scalabl
 ---
 
 ### 🛠️ Languages
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -27,7 +27,9 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **C++**: [MyLeetCode](https://github.com/WangWilly/MyLeetCode), [TTLAdnvncedCPP](https://github.com/WangWilly/TTLAdnvncedCPP)
 - **Python**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault), [first-bci](https://github.com/WangWilly/first-bci), [osu-cse-5526](https://github.com/WangWilly/osu-cse-5526)
 - **Java**: [osu-cse-6341](https://github.com/WangWilly/osu-cse-6341), [osu-cse-6431](https://github.com/WangWilly/osu-cse-6431)
@@ -37,10 +39,15 @@ Building robust applications across multiple domains using efficient and scalabl
 - **Solidity**: [myFirstSolidity](https://github.com/WangWilly/myFirstSolidity), [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Bash**: [osu-cse-6341](https://github.com/WangWilly/osu-cse-6341), [osu-cse-5526](https://github.com/WangWilly/osu-cse-5526)
 
+</details>
+
 ---
 
+<details>
+<summary><b>➡️ MORE</b></summary>
+
 ### 🎨 Frontend
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
@@ -49,14 +56,18 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **React**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault)
 - **React Native**: [Various projects with docker-compose support](https://github.com/WangWilly/smart-file-vault)
+
+</details>
 
 ---
 
 ### 🚀 Backend Technologies
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-Model--View--Controller-000000?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -71,17 +82,21 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **MVC Pattern**: [rust-patent-protector](https://github.com/WangWilly/rust-patent-protector)
 - **Gin**: [labs-gin](https://github.com/WangWilly/labs-gin)
 - **Express.js**: [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Django**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault)
 - **Axum**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph)
 
+</details>
+
 ---
 
 ### 🗄️ Database
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -90,15 +105,19 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **PostgreSQL**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault)
 - **Database Migration**: [rust-patent-protector](https://github.com/WangWilly/rust-patent-protector)
 - **Transaction Processing**: [osu-cse-6431](https://github.com/WangWilly/osu-cse-6431)
 
+</details>
+
 ---
 
 ### 🌐 Web3
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![](https://img.shields.io/badge/-Anchor-000000?style=flat-square&logo=rust&logoColor=white)
@@ -106,30 +125,38 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **Solana**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph), [sol-trading-service](https://github.com/WangWilly/sol-trading-service), [solana-geyser-labs](https://github.com/WangWilly/solana-geyser-labs)
 - **Ethereum**: [TTLGeth](https://github.com/WangWilly/TTLGeth), [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Anchor & Metaplex**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph), [metaplex-anchor-nft](https://github.com/WangWilly/metaplex-anchor-nft)
 - **DApps**: [Dounty](https://github.com/WangWilly/Dounty) - social network/bounty platform
 
+</details>
+
 ---
 
 ### 🤖 AI
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **Neural Networks**: [osu-cse-5526](https://github.com/WangWilly/osu-cse-5526) - Implementation of various neural networks
 - **NLP**: [nlp-stock-ticker](https://github.com/WangWilly/nlp-stock-ticker) - Find potential ticker symbols from user input
 - **BCI (Brain-Computer Interface)**: [first-bci](https://github.com/WangWilly/first-bci)
 
+</details>
+
 ---
 
 ### 🛠️ Development Tools
-<div align="center">
+<div align="left">
 
 ![](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -141,7 +168,13 @@ Building robust applications across multiple domains using efficient and scalabl
 
 </div>
 
-#### Notable Projects:
+<details>
+<summary><b>Notable Projects:</b></summary>
+
 - **Docker & Docker Compose**: [smart-file-vault](https://github.com/WangWilly/smart-file-vault), [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Monorepo Structure**: [solana-poneglyph](https://github.com/WangWilly/solana-poneglyph), [simple-evm-mono](https://github.com/WangWilly/simple-evm-mono)
 - **Deployment**: [rust-patent-protector](https://github.com/WangWilly/rust-patent-protector)
+
+</details>
+
+</details>
